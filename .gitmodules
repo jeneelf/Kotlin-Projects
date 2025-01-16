@@ -7,3 +7,6 @@
 [submodule "And102-Project3-Flixster-Part-1"]
 	path = And102-Project3-Flixster-Part-1
 	url = https://github.com/jeneelf/And102-Project3-Flixster-Part-1.git
+[submodule "AND102-Project4-Flixster-Part-2"]
+	path = AND102-Project4-Flixster-Part-2
+	url = https://github.com/jeneelf/AND102-Project4-Flixster-Part-2.git
