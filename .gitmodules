@@ -4,3 +4,6 @@
 [submodule "AND102_Project1"]
 	path = AND102_Project1
 	url = https://github.com/jeneelf/AND102_Project1.git
+[submodule "And102-Project3-Flixster-Part-1"]
+	path = And102-Project3-Flixster-Part-1
+	url = https://github.com/jeneelf/And102-Project3-Flixster-Part-1.git
