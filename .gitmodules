@@ -1,3 +1,6 @@
 [submodule "BitFit1"]
 	path = BitFit1
 	url = https://github.com/jeneelf/BitFit1
+[submodule "AND102_Project1"]
+	path = AND102_Project1
+	url = https://github.com/jeneelf/AND102_Project1.git
